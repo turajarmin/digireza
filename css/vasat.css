@@ -1,0 +1,27 @@
+div.vasat {
+  text-align: center;
+  margin-top: 50px;
+}
+div.vasat > div.yek {
+  display: inline-block;
+}
+div.vasat > div.do {
+  display: inline-block;
+}
+div.vasat > div.yek > a {
+  display: inline-block;
+  text-decoration: none;
+  padding-left: 30px;
+}
+div.vasat > div.do > a {
+  display: inline-block;
+  text-decoration: none;
+}
+div.vasat > div.yek > a > img {
+  width: 644px;
+  border-radius: 16px;
+}
+div.vasat > div.do > a > img {
+  width: 644px;
+  border-radius: 16px;
+}

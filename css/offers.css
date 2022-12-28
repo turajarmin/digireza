@@ -1,0 +1,156 @@
+* {
+  box-sizing: border-box;
+}
+div.offers {
+  margin-top: 50px;
+  text-align: center;
+}
+div.offers > h3 {
+  font-family: boldy;
+  margin-bottom: 30px;
+}
+div.offers > div.offer {
+  display: inline-block;
+  border-radius: 16px;
+  border: 3px solid rgb(230, 230, 230);
+}
+div.offers > div.offer > div.offerl1 {
+  display: block;
+  border-bottom: 2px solid rgb(230, 230, 230);
+  height: 140px;
+}
+div.offers > div.offer > div.offerl2 {
+  display: block;
+  height: 140px;
+}
+div.offers > div.offer > div.offerl1 > a {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+div.offers > div.offer > div.offerl2 > a {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer1 > div > div {
+  display: inline-block;
+  background-color: #f0f0f1;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer2 > div > div {
+  display: inline-block;
+  background-color: #f0f0f1;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer2 > div > div {
+  display: inline-block;
+  background-color: #f0f0f1;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer1 > div > div {
+  display: inline-block;
+  background-color: #f0f0f1;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer1 {
+  display: inline-block;
+  width: 177px;
+  height: 137px;
+  border-left: 1px solid rgb(230, 230, 230);
+}
+div.offers > div.offer > div.offerl1 > a > div.offer2 {
+  display: inline-block;
+  width: 177px;
+  height: 137px;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer1 {
+  display: block;
+  width: 177px;
+  height: 140px;
+  border-left: 1px solid rgb(230, 230, 230);
+}
+div.offers > div.offer > div.offerl2 > a > div.offer2 {
+  display: block;
+  width: 177px;
+  height: 140px;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer1 > div > div > img {
+  display: inline-block;
+  width: 60px;
+  margin-top: 15px;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer2 > div > div > img {
+  display: inline-block;
+  width: 60px;
+  margin-top: 15px;
+}
+
+div.offers > div.offer > div.offerl2 > a > div.offer1 > div > div > img {
+  display: inline-block;
+  width: 60px;
+  margin-top: 15px;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer2 > div > div > img {
+  display: inline-block;
+  width: 60px;
+  margin-top: 15px;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer1 > div > p {
+  font-family: boldy;
+  font-size: 12px;
+  margin-top: 5px;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer2 > div > p {
+  font-family: boldy;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+div.offers > div.offer > div.offerl2 > a > div.offer1 > div > p {
+  font-family: boldy;
+  font-size: 12px;
+  margin-top: 5px;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer2 > div > p {
+  font-family: boldy;
+  font-size: 12px;
+  margin-top: 5px;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer1 > div {
+  padding: 10px;
+}
+div.offers > div.offer > div.offerl1 > a > div.offer2 > div {
+  padding: 10px;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer1 > div {
+  padding: 10px;
+}
+div.offers > div.offer > div.offerl2 > a > div.offer2 > div {
+  padding: 10px;
+}
+ 

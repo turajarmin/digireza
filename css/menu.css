@@ -1,0 +1,345 @@
+div.menu {
+  width: 100%;
+  height: 44px;
+  text-align: right;
+  background-color: white;
+}
+div.menu > nav {
+  width: inherit;
+  height: inherit;
+}
+div.menu > nav > ul {
+  width: inherit;
+  height: inherit;
+  list-style-type: none;
+  padding-right: 20px;
+}
+div.menu > nav > ul > li.right {
+  display: inline-block;
+  height: inherit;
+  line-height: 40px;
+  width: 128.3px;
+  vertical-align: top;
+  overflow: hidden;
+}
+div.menu > nav > ul > li.cn1 {
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  width: 108.6px;
+  vertical-align: top;
+  overflow: hidden;
+}
+div.menu > nav > ul > li.cn2 {
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  width: 112.5px;
+  vertical-align: top;
+  overflow: hidden;
+}
+div.menu > nav > ul > li.cn3 {
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  width: 151.5px;
+  overflow: hidden;
+  vertical-align: top;
+}
+div.menu > nav > ul > li.center {
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  width: 105px;
+  vertical-align: top;
+  overflow: hidden;
+}
+div.menu > nav > ul > li.akh1 {
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  width: 120px;
+  vertical-align: top;
+  overflow: hidden;
+}
+div.menu > nav > ul > li.akhar {
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  width: 120px;
+  vertical-align: top;
+  overflow: hidden;
+}
+div.menu > nav > ul > li.right > a {
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+  font-family: boldy;
+  position: relative;
+  display: block;
+  height: inherit;
+}
+div.menu > nav > ul > li > a {
+  text-decoration: none;
+  color: #424750;
+  font-size: 11px;
+  font-family: boldy;
+  transition: 500ms;
+  -webkit-transition: 500ms;
+  -moz-transition: 500ms;
+  -ms-transition: 500ms;
+  -o-transition: 500ms;
+  transition-delay: 100ms;
+}
+div.menu > nav > ul > li.center > a {
+  text-decoration: none;
+  color: #424750;
+  font-size: 11px;
+  font-family: boldy;
+}
+div.menu > nav > ul > li.cn1 > a {
+  position: relative;
+  right: 10px;
+}
+div.menu > nav > ul > li.akh1 > a {
+  position: relative;
+  right: 10px;
+}
+div.menu > nav > ul > li.right > a > i {
+  padding-left: 4px;
+  font-size: 14px;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li.cn1 > a > i {
+  padding-left: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li.cn2 > a > i {
+  padding-left: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li.cn3 > a > i {
+  padding-left: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li.center > a > i {
+  padding-left: 4px;
+  font-size: 13px;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li.akh1 > a > i {
+  padding-left: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li.akhar > a > i {
+  padding-left: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  position: relative;
+  top: 2px;
+}
+div.menu > nav > ul > li > a:hover {
+  transition: 500ms;
+  -webkit-transition: 500ms;
+  -moz-transition: 500ms;
+  -ms-transition: 500ms;
+  -o-transition: 500ms;
+  transition-delay: 100ms;
+  color: crimson;
+}
+div.menu > nav > ul > li.right > div.zirin1 {
+  display: inline-block;
+  width: 120px;
+  height: 2px;
+  background-color: crimson;
+  position: relative;
+  bottom: 29px;
+  right: 120px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+div.menu > nav > ul > li.right:hover > div.zirin1 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 29px;
+  right: 0px;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.cn1 > div.zirin2 {
+  display: inline-block;
+  width: 120px;
+  height: 2px;
+  background-color: crimson;
+  position: relative;
+  bottom: 29px;
+  right: 120px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+div.menu > nav > ul > li.cn1:hover > div.zirin2 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 29px;
+  right: 0px;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.cn2 > div.zirin3 {
+  display: inline-block;
+  width: 120px;
+  height: 2px;
+  background-color: crimson;
+  position: relative;
+  bottom: 29px;
+  right: 120px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+div.menu > nav > ul > li.cn2:hover > div.zirin3 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 30px;
+  right: 0px;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.cn3 > div.zirin4 {
+  display: inline-block;
+  width: 120px;
+  height: 2px;
+  background-color: crimson;
+  position: relative;
+  bottom: 29px;
+  right: 120px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+div.menu > nav > ul > li.cn3:hover > div.zirin4 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 29px;
+  right: 0px;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.center > div.zirin5 {
+  display: inline-block;
+  width: 120px;
+  height: 2px;
+  position: relative;
+  bottom: 29px;
+  right: 120px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.center:hover > div.zirin5 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 29px;
+  right: 0px;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.akh1 > div.zirin6 {
+  display: inline-block;
+  width: 88px;
+  height: 2px;
+  position: relative;
+  bottom: 29px;
+  right: 88px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.akh1:hover > div.zirin6 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 29px;
+  right: 0px;
+  background-color: crimson;
+}
+div.menu > nav > ul > li.akhar > div.zirin7 {
+  display: inline-block;
+  width: 120px;
+  height: 2px;
+  background-color: white;
+  position: relative;
+  bottom: 29px;
+  right: 120px;
+  transition-delay: 100ms;
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+div.menu > nav > ul > li.akhar:hover > div.zirin7 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+  transition-delay: 100ms;
+  bottom: 29px;
+  right: 0px;
+  background-color: crimson;
+}

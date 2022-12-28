@@ -1,0 +1,24 @@
+div.products2 {
+  text-align: center;
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 24px;
+}
+div.products2 > div.tab2 {
+  display: inline-block;
+  padding-left: 20px;
+}
+div.products2 > div.tab2 > a > img {
+  max-width: 314px;
+  max-height: 235.5px;
+  border-radius: 16px;
+}
+div.products2 > div.tab2e {
+  display: inline-block;
+}
+div.products2 > div.tab2e > a > img {
+  max-width: 314px;
+  max-height: 235.5px;
+  border-radius: 16px;
+}

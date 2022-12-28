@@ -1,0 +1,76 @@
+div.read {
+  margin-top: 50px;
+  height: 346px;
+  width: 100%;
+}
+div.readhd {
+  height: 50px;
+  width: 90%;
+}
+div.readbd {
+  height: 296px;
+  width: 100%;
+}
+div.hd1 {
+  display: inline-block;
+  width: 45%;
+  height: 50px;
+  font-family: boldy;
+  font-size: 15px;
+  line-height: 50px;
+  vertical-align: top;
+  text-align: right;
+}
+div.hd {
+  display: inline-block;
+  width: 45%;
+  height: 50px;
+  line-height: 50px;
+  text-align: left;
+}
+div.hd > a {
+  color: rgb(0, 191, 191);
+  font-family: boldy;
+  font-size: 13px;
+  text-decoration: none;
+}
+div.hd > a > i {
+  padding-right: 5px;
+}
+div.readbd > div {
+  width: 317px;
+  height: 280px;
+  text-align: center;
+  border: 1px solid rgb(206, 206, 206);
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  vertical-align: top;
+}
+div.readbd > div > div.pic {
+  width: inherit;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+div.readbd > div > a > div.pic {
+  text-decoration: none;
+}
+div.pic > img {
+  width: 315px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+div.readbd > div > a > div.txt {
+  width: 100%;
+  margin: 20px 0px;
+  padding: 0px 20px;
+  font-family: boldy;
+  text-align: right;
+  font-size: 12px;
+  color: black;
+}

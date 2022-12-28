@@ -1,0 +1,20 @@
+div.submenu1{
+    position: absolute;
+    width:calc(100% - 40px);
+    height: 600px;
+    background-color:green ;
+    display: inline-block;
+    right: 20px;
+}
+div.subi{
+    width: 13%;
+    height: inherit;
+    color: blue;
+    display: inline-block;
+}
+div.sobi{
+    width: 87%;
+    height: inherit;
+    color: aqua;
+    display: inline-block;
+}

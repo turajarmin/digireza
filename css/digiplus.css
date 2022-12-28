@@ -1,0 +1,69 @@
+div.digiplus {
+  width: 100%;
+  height: 388px;
+  margin-top: 24px;
+}
+div.digiplus > div.digi {
+  width: 85%;
+  height: inherit;
+  padding: 16px;
+  background-color: #941b80;
+  border-radius: 15px;
+  text-align: center;
+}
+div.digiplus > div.digi > div.dip1 {
+  text-align: right;
+  height: 100%;
+  width: 30%;
+  background-image: url(../images/digiplus/plus-widget.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-y: bottom;
+  margin-left: 4%;
+  vertical-align: top;
+}
+div.digiplus > div.digi > div.dip2 {
+  height: 100%;
+  width: 32%;
+  background-color: white;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+}
+div.digiplus > div.digi > div.dip3 {
+  height: 100%;
+  width: 32%;
+  background-color: white;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+}
+div.digiplus > div.digi > div.dip1 > div.spec {
+  width: 100%;
+  font-family: boldy;
+  font-size: 13px;
+  color: white;
+  padding-top: 5px;
+}
+div.digiplus > div.digi > div.dip1 > a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+  font-family: boldy;
+  font-size: 12px;
+}
+div.digiplus > div.digi > div.dip1 > a > div.spec2 {
+  text-align: center;
+  line-height: 40px;
+  width: 90px;
+  height: 40px;
+  border-radius: 15px;
+  border: 1px solid white;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+div.digiplus > div.digi > div.dip1 > a > div.spec2 > i {
+  padding-right: 4px;
+  font-size: 13px;
+}

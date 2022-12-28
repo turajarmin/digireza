@@ -1,0 +1,122 @@
+div.digiclub {
+  width: 85%;
+  height: 90px;
+  background-color: #007295;
+  margin-top: 10px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  line-height: 120px;
+  text-align: right;
+}
+div.digiclub > a {
+  height: inherit;
+  margin-right: 30px;
+  display: inline-block;
+  margin-left: 200px;
+}
+div.digiclub > a > img {
+  width: 130px;
+}
+div.digiclub > div.digiclub1 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 60px;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+  line-height: 60px;
+  background-image: url(../images/digiclub/wheel-spinner.jpg);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 150px;
+  position: relative;
+  bottom: 18px;
+}
+div.digiclub > div.digiclub2 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 60px;
+  line-height: 60px;
+  background-image: url(../images/digiclub/missions.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 150px;
+  position: relative;
+  bottom: 18px;
+}
+div.digiclub > div.digiclub3 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 60px;
+  line-height: 60px;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+  background-image: url(../images/digiclub/awards.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 150px;
+  position: relative;
+  bottom: 18px;
+}
+div.digiclub > div.digiclub1 > a {
+  display: block;
+  width: inherit;
+  height: inherit;
+  font-family: boldy;
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+  padding-right: 10px;
+}
+div.digiclub > div.digiclub1 > a > i {
+  position: relative;
+  padding-left: 5px;
+  top: 2px;
+  color: rgb(0, 191, 191);
+}
+div.digiclub > div.digiclub1 > a > img {
+  height: 60px;
+  width: 168px;
+}
+div.digiclub > div.digiclub2 > a {
+  display: block;
+  width: inherit;
+  height: inherit;
+  text-decoration: none;
+  font-family: boldy;
+  color: black;
+  font-size: 12px;
+  padding-right: 10px;
+}
+div.digiclub > div.digiclub2 > a > i {
+  position: relative;
+  padding-left: 5px;
+  top: 2px;
+  color: rgb(0, 191, 191);
+}
+div.digiclub > div.digiclub2 > a > img {
+  height: 60px;
+  width: 168px;
+}
+div.digiclub > div.digiclub3 > a {
+  display: block;
+  width: inherit;
+  height: inherit;
+  font-family: boldy;
+  color: black;
+  font-size: 12px;
+  text-decoration: none;
+  padding-right: 10px;
+}
+div.digiclub > div.digiclub3 > a > i {
+  position: relative;
+  padding-left: 5px;
+  top: 2px;
+  color: rgb(0, 191, 191);
+}
+div.digiclub > div.digiclub3 > a > img {
+  height: 60px;
+  width: 168px;
+}
